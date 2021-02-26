@@ -1,6 +1,6 @@
 package com.ashish.basic.byteshortintlong;
 
-public class Main {
+public class IntRange {
 
     public static void main(String[] args) {
         int value = 10000;
@@ -13,5 +13,10 @@ public class Main {
         System.out.println("------");
 
         System.out.println(max_value);
+
+        int check_max = 2_147_483_647;
+        int check_max1 = 407;
+
+        System.out.println(check_max1);
     }
 }
