@@ -7,9 +7,7 @@ public class FindMinMax {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter numbers");
-        //int number = scanner.nextInt();
 
-        //System.out.println("Number -> " + x +", & " + y);
         int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
         //boolean first = true;
