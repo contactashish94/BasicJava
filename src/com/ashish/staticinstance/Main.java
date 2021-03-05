@@ -10,6 +10,6 @@ public class Main {
         dog.printName();
         dog1.printName();
 
-        System.out.println("Host name is --- : " + InetAddress.getLocalHost().getHostName());
+
     }
 }
