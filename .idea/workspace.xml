@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d539ad3a-e4f8-47c6-9014-954a457a6886" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/META-INF/BasicJava.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/array/ArrayDebug.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/array/MinValueInArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/array/ReverseArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/array/SortAscending.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/array/SortDescending.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/basic/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/basic/byteshortintlong/ByteRange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/basic/byteshortintlong/IntRange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/basic/byteshortintlong/LongRange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/basic/byteshortintlong/ShortRange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/constructor/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/constructor/Constructors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/constructor/VipPerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/date/util/ParseDates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/functionalinterfaces/IMyFunctionalInterface_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/functionalinterfaces/IntPred.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/interview/CheckPrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/interview/DoWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/interview/FindMinMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8/lambda/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8/lambda/EmployeeSort$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8/lambda/EmployeeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8/lambda/EmployeeSortByLamba.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8/lambda/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8/lambda/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8/lambda/Main2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8/lambda/Main2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8/lambda/TestFunctional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8/lambda/UpperConcat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8streams/Artist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8streams/EX_Consume.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8streams/EX_Map.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8streams/EX_Sort_Min_Max.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8streams/Ex1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8streams/Ex2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8streams/Ex3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8streams/Ex4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8streams/Ex5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8streams/Ex_ParallelStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8streams/Ex_ReduceStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8streams/Ex_Sort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8streams/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/java8streams/ProductInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/keywords/KeyWords_Expression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/leapyearcheck/LeapYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/list/arraylist/ArrayListDebug.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/list/linkedlist/LinkedListDebug.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/list/linkedlist/SortedLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/method/overloading/Challene_MinutesANDSeconds.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/method/overloading/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/method/overriding/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/method/overriding/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/method/overriding/Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/oops/composition/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/oops/composition/Monitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/oops/composition/PC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/oops/composition/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/oops/encapsulation/EnhancedPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/oops/encapsulation/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/oops/encapsulation/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/oops/encapsulation/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/oops/inheritance/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/oops/inheritance/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/oops/inheritance/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/oops/polymorphism/DDLJ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/oops/polymorphism/KKKG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/oops/polymorphism/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/oops/polymorphism/Movie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/oops/polymorphism/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/oops/polymorphism/URI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/oops/reference/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/oops/reference/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/operators/OperatorsChallenge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/reference/House.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/reference/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/richardlambda/BinaryOperatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/richardlambda/Example1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/richardlambda/FunctionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/richardlambda/IMyFunctionalInterface_1_Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/richardlambda/IntPredTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/richardlambda/PredicateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/richardlambda/SupplierTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/staticinstance/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/com/ashish/staticinstance/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/deadlock/ex1/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/deadlock/ex1/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/deadlock/ex1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/deadlock/ex1/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/deadlock/ex1/MyThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/ex2/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/ex3/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/prevention/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/prevention/ex2/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/prevention/ex3/MyThred.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/prevention/loophole/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/block/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/block/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/block/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex1/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex2/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex2/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex3/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex3/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex3/MyThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/primitives/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/primitives/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadcomm/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadcomm/ex1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadcomm/ex1/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadcomm/ex2/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadcomm/ex2/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadpriority/ex1/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadpriority/ex2/DefaultPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadpriority/ex3/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/functionalinterfaces/IntPred.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/functionalinterfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8/debugdefault/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8/debugdefault/ChildImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8/debugdefault/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8/debugdefault/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8/debugdefault/ParentImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8/defaultmethod/ImplementationClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8/defaultmethod/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8/defaultmethod/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8/devoxx/designappeternsclass/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8/devoxx/designappeternsclass/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8/devoxx/designappeternsclass/Sample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8/lambda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8/lambda/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8/lambda/TestFunctional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8/methodref/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8/methodref/example2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8/parralelism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8/parralelism/Parallelism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8interfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8streams/EX_Consume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8streams/EX_Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8streams/EX_Sort_Min_Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8streams/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8streams/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8streams/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8streams/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8streams/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8streams/Ex_LongestTrack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8streams/Ex_ParallelStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8streams/Ex_ReduceStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8streams/Ex_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/java8streams/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/office/test/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/office/test/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/practice/java2blog/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/practice/java2blog/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/practice/java2blog/Epmloyee_HashMapMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/practice/java2blog/IterateMapMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/practice/java2blog/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/practice/java2blog/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/practice/java2blog/multithreading/OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ashish/richardlambda/IntPredTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ashish/functionalinterfaces/IMyFunctionalInterface_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ashish/functionalinterfaces/IMyFunctionalInterface_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ashish/richardlambda/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ashish/richardlambda/Example1.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/deadlock/ex1/A.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+              <folding>
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/deadlock/ex1/B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="23" />
+              <folding>
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/deadlock/ex1/MyThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <folding>
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>comparet</find>
+      <find>compareto</find>
+      <find>start</find>
+      <find>factory</find>
+      <find>map(artist -&gt; artist.getNationality())</find>
+      <find>printf</find>
+      <find>public void parentDefaultUsed()</find>
+      <find>public Map&lt;Artist, List&lt;String&gt;&gt; nameOfAlbumsDumb(Stream&lt;Album&gt; albums) {</find>
+      <find>Stream&lt;</find>
+      <find>sorted</find>
+      <find>index</find>
+      <find>put</find>
+      <find>start0</find>
+      <find>name</find>
+      <find>setNam</find>
+      <find>LOW</find>
+      <find>`</find>
+      <find>interrupt()</find>
+      <find>for</find>
+      <find>yield</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Ashish\Learning\Richard-Warburton\java-8-lambdas-exercises</dir>
+      <dir>C:\Ashish\Learning\Tim-Buchalka\BasicJava\src\com\ashish\durgasoft\threadpriority\ex1</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/ashish/java8/devoxx/designappeternsclass/ReadMe.txt" />
+        <option value="$PROJECT_DIR$/src/com/ashish/java8/devoxx/designappeternsclass/Sample.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/java8/devoxx/designappeternsclass/Sample1.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/java8streams/Ex_Sort.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/office/test/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/office/test/Sample.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/practice/java2blog/A.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/practice/java2blog/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/practice/java2blog/Test1.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/practice/java2blog/Customer.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/practice/java2blog/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/practice/java2blog/Epmloyee_HashMapMain.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/practice/java2blog/IterateMapMain.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/practice/java2blog/multithreading/OddEven.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/ex1/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/ex2/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/ex3/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threadpriority/ex1/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threadpriority/ex2/DefaultPriority.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threadpriority/ex3/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadpriority/ex3/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/prevention/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/prevention/MyThread2.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/prevention/ex2/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/prevention/ex3/MyThred.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex1/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex2/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex3/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex3/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex3/MyThread2.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex3/Display.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/block/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex2/Display.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex2/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/block/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/block/Display.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/primitives/Display.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ReadMe.txt" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadcomm/ReadMe.txt" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/prevention/loophole/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadcomm/ex1/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadcomm/ex1/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadcomm/ex2/ThreadB.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadcomm/ex2/ThreadA.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/deadlock/ex1/MyThread2.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/deadlock/ex1/A.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/deadlock/ex1/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/deadlock/ex1/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/deadlock/ex1/B.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="971" />
+    <option name="y" value="5" />
+    <option name="width" value="950" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/ashish/durgasoft/threading/ex1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ashish.java8streams" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ashish.durgasoft.threading.deadlock.ex1" />
+      <recent name="com.ashish.durgasoft.threading.synchronization.ex3" />
+      <recent name="com.ashish.java8.lambda" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Ashish\Learning\Tim-Buchalka\BasicJava\src\com\ashish\durgasoft\threading\ex1" />
+      <recent name="C:\Ashish\Learning\Tim-Buchalka\BasicJava\src\com\ashish\java8\parralelism" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MyThread">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ashish.durgasoft.threading.deadlock.ex1.Main" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ashish.durgasoft.threading.deadlock.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ashish.durgasoft.threading.synchronization.block.Main" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ashish.durgasoft.threading.synchronization.block.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ashish.durgasoft.threading.threadcomm.ex1.Main" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ashish.durgasoft.threading.threadcomm.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ashish.durgasoft.threading.deadlock.ex1.MyThread" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ashish.durgasoft.threading.deadlock.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ashish.durgasoft.threading.threadcomm.ex2.ThreadA" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ashish.durgasoft.threading.threadcomm.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyThread" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.ThreadA" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d539ad3a-e4f8-47c6-9014-954a457a6886" name="Default Changelist" comment="" />
+      <created>1615527089661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615527089661</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added java-8">
+      <created>1615967186661</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615967186661</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25503355" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.6614731" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986979" weight="0.41501418" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39917696" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50130206" side_tool="true" weight="0.9259259" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49934897" weight="0.32784638" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24966443" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25520834" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.6614731" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4986979" visible="true" weight="0.41563785" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39917696" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50130206" side_tool="true" weight="0.9259259" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49934897" weight="0.32784638" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24966443" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added java-8" />
+    <option name="LAST_COMMIT_MESSAGE" value="added java-8" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ashish/java8/lambda/Main2.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ashish/leapyearcheck/LeapYear.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ashish/java8/parralelism/Main.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ashish/practice/java2blog/Employee.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ashish/practice/java2blog/Employee.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ashish/practice/java2blog/Employee.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ashish/practice/java2blog/Employee.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ashish/practice/java2blog/Epmloyee_HashMapMain.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ashish/practice/java2blog/multithreading/OddEven.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ashish/practice/java2blog/multithreading/OddEven.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/ex2/MyThread.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/ex2/MyThread.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/lang/Thread.class</url>
+          <line>187</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>this.threadStatus != 0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>name.hashCode()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i - n</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>track.getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>album -&gt; album.getTracks()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>album.getTracks()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>year % 4 == 0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>leap</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>listEmp.get(0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/nio/Buffer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="e#966#967#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1361#1362#0" expanded="true" />
+            <element signature="e#1394#1395#0" expanded="true" />
+            <element signature="e#2590#2591#0" expanded="true" />
+            <element signature="e#2639#2640#0" expanded="true" />
+            <element signature="e#2682#2683#0" expanded="true" />
+            <element signature="e#2731#2732#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/nio/cs/StreamEncoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
+          <folding>
+            <element signature="e#3837#3838#0" expanded="true" />
+            <element signature="e#3871#3872#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/io/OutputStreamWriter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/io/OutputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/io/BufferedOutputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/io/PrintStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="349" selection-start-line="349" selection-end-line="349" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/lang/Throwable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+          <folding>
+            <element signature="e#12289#12290#0" expanded="true" />
+            <element signature="e#12343#12344#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/lang/Integer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="138" selection-start-line="138" selection-end-line="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/lang/AbstractStringBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="156" selection-start-line="156" selection-end-line="156" />
+          <folding>
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/lang/StackTraceElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#947#948#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1103#1104#0" expanded="true" />
+            <element signature="e#1147#1148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/lang/Math.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="316" selection-start-line="316" selection-end-line="316" />
+          <folding>
+            <element signature="e#8659#8660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/util/Arrays.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="1353" selection-start-line="1353" selection-end-line="1353" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="e#6064#6065#0" expanded="true" />
+            <element signature="e#6104#6105#0" expanded="true" />
+            <element signature="e#33641#33642#0" expanded="true" />
+            <element signature="e#33703#33704#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/lang/StringBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="199" selection-start-line="199" selection-end-line="199" />
+          <folding>
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+            <element signature="e#4709#4710#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/ex2/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threadpriority/ex2/MyThread.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/ex3/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadpriority/ex1/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadpriority/ex2/DefaultPriority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadpriority/ex3/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/prevention/MyThread2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex1/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex3/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex3/MyThread2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex3/Display.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex2/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ex2/Display.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/block/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/block/Display.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/block/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/primitives/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/primitives/Display.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/synchronization/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="108" selection-start-line="22" selection-start-column="108" selection-end-line="22" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadcomm/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/prevention/loophole/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/prevention/ex3/MyThred.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/prevention/ex2/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/prevention/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadcomm/ex1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadcomm/ex1/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/lang/Object.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/java/lang/Thread.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="187" selection-start-line="187" selection-end-line="187" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadcomm/ex2/ThreadB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/threadcomm/ex2/ThreadA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/deadlock/ex1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/deadlock/ex1/MyThread2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/deadlock/ex1/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/deadlock/ex1/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ashish/durgasoft/threading/deadlock/ex1/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BasicJava</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
