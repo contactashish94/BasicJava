@@ -11,15 +11,15 @@ public class Display {
 
         do {
             if (l.tryLock(2000, TimeUnit.MILLISECONDS)) {
-                System.out.println(name + "Got Chance ---> ");
+                System.out.println(name + ":   ---Got Chance ---> " + System.currentTimeMillis());
                 try {
-                    Thread.sleep(5000);
+                    Thread.sleep(7000);
                 } catch (InterruptedException e) {
                 }
                 l.unlock();
                 break;
             } else {
-                System.out.println(name + "Waiting---> ");
+                System.out.println(name + ":----Waiting---> " + System.currentTimeMillis());
             }
         }while (true);
     }

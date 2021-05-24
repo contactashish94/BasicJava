@@ -1,7 +1,5 @@
 package com.ashish.datastructure.recursion.arrays;
 
-import org.omg.CORBA.INTERNAL;
-
 public class SingleDArray {
     int[] arr = null;
 

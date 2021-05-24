@@ -9,8 +9,6 @@ public class MyThread extends Thread {
     }
     @Override
     public void run() {
-        //d.wish(name);
-        //System.out.println(d);
         try {
             d.wish(name);
         }catch (InterruptedException e){}
