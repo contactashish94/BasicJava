@@ -13,8 +13,7 @@ public class BinaryTreeByLinkedListMain {
 		System.out.println("Inserting 10 nodes to tree");
 		for(int i=1;i<=10;i++)
 			tree.insert(i*10);
-		
-		
+
 		System.out.println("\nLevel-order of tree:");
 		tree.levelOrder();
 		System.out.println();

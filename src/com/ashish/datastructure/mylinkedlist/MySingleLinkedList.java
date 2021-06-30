@@ -78,9 +78,10 @@ public class MySingleLinkedList {
             System.out.println("Traversing");
             MySingleNode tempNode = head;
             for (int i = 0; i < getSize();i++){
-                System.out.println(tempNode.getValue());
+                System.out.print(tempNode.getValue()+" ");
                 tempNode = tempNode.getNext();
             }
+            System.out.println("");
             System.out.println("Traversing end");
         }
         else
@@ -145,4 +146,65 @@ public class MySingleLinkedList {
             setSize(getSize()-1);
         }
     }
+
+    public void getNthNode(int n){
+        if(existsLinkedList()){
+            if(n>getSize()){
+                System.out.println("Index Higher");
+            }
+            MySingleNode tempNode = head;
+            for (int i = 0; i <= n;i++){
+                if(i==n){
+                    System.out.println(tempNode.getValue());
+                }
+                tempNode = tempNode.getNext();
+            }
+            //System.out.println("Traversing end");
+        }
+        else
+            System.out.println("Not found");
+    }
+
+    public void reverse(){
+        MySingleNode pointer = head;
+        MySingleNode current = null, previous = null;
+        while (pointer != null) {
+            current = pointer;
+            pointer = pointer.getNext();
+
+            traverseMyLinkedList();
+            System.out.println("-----1------");
+            current.setNext(previous);
+            traverseMyLinkedList();
+            System.out.println("-----2------");
+            previous = current;
+            traverseMyLinkedList();
+            System.out.println("-----3------");
+            head = current;
+            traverseMyLinkedList();
+            System.out.println("-----4------");
+        }
+
+    }
+
+    MySingleNode reverse2()
+    {   traverseMyLinkedList();
+        System.out.println("-----Before------");
+        MySingleNode prev = null;
+        MySingleNode current = head;
+        MySingleNode next = null;
+        while (current != null) {
+            next = current.getNext();
+
+            current.setNext(prev);
+
+            prev = current;
+            current = next;
+        }
+        head = prev;
+        traverseMyLinkedList();
+        System.out.println("-----DONE------");
+        return head;
+    }
+
 }

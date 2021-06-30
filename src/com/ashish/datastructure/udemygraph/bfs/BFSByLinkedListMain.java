@@ -1,4 +1,4 @@
-package com.ashish.datastructure.udemygraph;
+package com.ashish.datastructure.udemygraph.bfs;
 import java.util.ArrayList;
 import com.ashish.datastructure.graph.node.*;
 

@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Solution2 {
     static int charNo = 256;
 
-    static boolean isAnagram(String a, String b) {
+    public static boolean isAnagram(String a, String b) {
         char[] achar = a.toLowerCase().toCharArray();
         char[] bchar = b.toLowerCase().toCharArray();
         if (achar.length != bchar.length) {

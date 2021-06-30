@@ -13,6 +13,7 @@ public class MergeSort {
 
 
     static void merge(int[] A, int left, int middle, int right) {
+        System.out.println("Merge Actual Method called");
         int [] leftTmpArray = new int[middle-left+2];  //Create tmp arrays
         int [] rightTmpArray = new int[right-middle+1];
 
