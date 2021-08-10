@@ -18,10 +18,16 @@ public class Number_Factors_DC {
 	
 	public static void main(String[] args) {
 		Number_Factors_DC en = new Number_Factors_DC();
+		Long start = System.nanoTime();
+
 		System.out.println(en.waysToGetN(4));
 		System.out.println(en.waysToGetN(5));
 		System.out.println(en.waysToGetN(6));
 		System.out.println(en.waysToGetN(30));
+		Long end = System.nanoTime();
+
+		System.out.println();
+		System.out.println("Total time to execute by D & C: =" + (end-start));
 	}//End of method
 	
 	

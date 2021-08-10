@@ -1,9 +1,10 @@
-package com.ashish.datastructure.divideandconquer;
+package com.ashish.datastructure.dynamicprogramming;
 
-public class Fibonacci_DC {
+public class Fibonacci_DP {
+	int memory[] = new int[10000000];
 
 	public int CalculateFibonacci(int n) {
-		//System.gc();
+
 		if (n < 1) {
 			System.out.println("Please enter a positive number"); 
 			return Integer.MIN_VALUE;
@@ -12,28 +13,28 @@ public class Fibonacci_DC {
 		}else if (n == 2) {
 			return 1;     
 		}else  {
-			//System.gc();
-			return CalculateFibonacci(n-1) + CalculateFibonacci(n-2);
+			if (memory[n]==0){
+			memory[n] = CalculateFibonacci(n-1) + CalculateFibonacci(n-2);}
+			return memory[n];
 		}
 	}// end of method
 
 	
 	public static void main(String[] args) {
-		Fibonacci_DC fib = new Fibonacci_DC();
+		Fibonacci_DP fib = new Fibonacci_DP();
 		//System.gc();
 		//System.out.println("5th Fibonacci is ---> " + fib.CalculateFibonacci(5));
 		//System.out.println("6th Fibonacci is ---> " + fib.CalculateFibonacci(6));
 		//System.out.println("Print first 10 Fibonacci Numbers");
 		Long start = System.nanoTime();
-		//System.gc();
+
 		for(int i = 1; i <=1000;i++){
-			//System.gc();
-			System.out.print(fib.CalculateFibonacci(i)+" ");
-			//System.gc();
+			System.out.println("---"+i+"---  "+fib.CalculateFibonacci(i)+" ");
+
 		}
 		Long end = System.nanoTime();
 		System.out.println();
-		System.out.println("Total time to execute by Divide and conquer: =" + (end-start));
+		System.out.println("Total time to execute by Dynamic Programming: =" + (end-start));
 	}// end of method
 
 }// end of class

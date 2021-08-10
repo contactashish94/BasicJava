@@ -25,7 +25,7 @@ public class ConvertOneStringToAnother_DC {
 
 	public static void main(String[] args) {
 		ConvertOneStringToAnother_DC editDisatnce = new ConvertOneStringToAnother_DC();
-		//System.out.println(editDisatnce.findMinOperations("table", "tbres"));
+		System.out.println(editDisatnce.findMinOperations("table", "tbres"));
 		//System.out.println(editDisatnce.findMinOperations("findMinOperationsAux", "findMinAuxOperations"));
 		System.out.println(editDisatnce.findMinOperations("ASHISH", "ASH"));
 
