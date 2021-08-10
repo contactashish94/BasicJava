@@ -2,37 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d539ad3a-e4f8-47c6-9014-954a457a6886" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/divideandconquer/LongestCommonSubsequence_DC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/divideandconquer/LongestPalindromicSubsequence_DC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/divideandconquer/LongestPalindromicSubstring_DC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/divideandconquer/MinCostToReachLastCellI_in2DArray_DC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/divideandconquer/NumberOfPathsToReachLastCell_DC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/divideandconquer/TotalPathToReachLastCell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/dynamicprogramming/ConvertOneStringToAnother_BU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/dynamicprogramming/ConvertOneStringToAnother_TD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/dynamicprogramming/Fibonacci_DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/dynamicprogramming/Fibonacci_DP_BottomUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/dynamicprogramming/House_Thieft_BottomUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/dynamicprogramming/House_Thieft_TopDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/dynamicprogramming/LongestCommonSubsequence_BU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/dynamicprogramming/LongestCommonSubsequence_TD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/dynamicprogramming/Number_Factors_BottomUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/dynamicprogramming/Number_Factors_DP_TopDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/dynamicprogramming/Number_Factors_TopDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/dynamicprogramming/ZeroOneKnapsack_BottomUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/dynamicprogramming/ZeroOneKnapsack_TopDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/test/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/test/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ashish/test/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/ashish/constructor/Constructors.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/ashish/constructor/Constructors.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/ashish/oops/inheritance/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/ashish/oops/inheritance/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/ashish/staticinstance/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/ashish/staticinstance/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ashish/datastructure/divideandconquer/ConvertOneStringToAnother_DC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/divideandconquer/ConvertOneStringToAnother_DC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ashish/datastructure/divideandconquer/Fibonacci_DC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/divideandconquer/Fibonacci_DC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ashish/datastructure/divideandconquer/Number_Factors_DC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ashish/datastructure/divideandconquer/Number_Factors_DC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ashish/list/linkedlist/LinkedListDebug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ashish/list/linkedlist/LinkedListDebug.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ashish/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ashish/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/AddString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/AddString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -53,54 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ashish/test/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="76" selection-start-line="76" selection-end-line="76" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ashish/datastructure/recursion/fibonacci/FibonacciBestApproach.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ashish/datastructure/recursion/fibonacci/Demo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-              <folding>
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ashish/practiceinterview/linkedlist/SumOf2LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ashish/practiceinterview/linkedlist/Sum2LL.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/AddString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-597">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="80">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -167,7 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ashish/interview/interviewkit/persistent/OddEvenFreqFrom3Array.java" />
         <option value="$PROJECT_DIR$/src/com/ashish/interview/interviewkit/persistent/Multiple.java" />
         <option value="$PROJECT_DIR$/src/com/ashish/interview/interviewkit/persistent/MatrixMultiplication.java" />
         <option value="$PROJECT_DIR$/src/com/ashish/interview/interviewkit/persistent/ListMultiplication.java" />
@@ -218,6 +145,7 @@
         <option value="$PROJECT_DIR$/src/com/ashish/list/linkedlist/LinkedListDebug.java" />
         <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
         <option value="$PROJECT_DIR$/src/com/ashish/test/Main.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/AddString.java" />
       </list>
     </option>
   </component>
@@ -256,46 +184,7 @@
               <item name="BasicJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="BasicJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ashish" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ashish" type="462c0819:PsiDirectoryNode" />
-              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ashish" type="462c0819:PsiDirectoryNode" />
-              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="recursion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ashish" type="462c0819:PsiDirectoryNode" />
-              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
-              <item name="recursion" type="462c0819:PsiDirectoryNode" />
-              <item name="fibonacci" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ashish" type="462c0819:PsiDirectoryNode" />
-              <item name="practiceinterview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BasicJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BasicJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ashish" type="462c0819:PsiDirectoryNode" />
-              <item name="practiceinterview" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -496,7 +385,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625024504787</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added java-8">
+      <created>1628577459027</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1628577459028</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added java-8">
+      <created>1628577613765</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1628577613765</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView">
@@ -510,6 +413,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26174498" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -520,14 +424,14 @@
       <window_info id="Favorites" order="6" side_tool="true" weight="0.3295302" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.6614731" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798658" visible="true" weight="0.2719547" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798658" weight="0.2719547" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932885" weight="0.26628897" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4986577" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50201344" side_tool="true" weight="0.9575071" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49934897" weight="0.24220963" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
@@ -1151,13 +1055,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ashish/datastructure/divideandconquer/Number_Factors_DC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ashish/datastructure/dynamicprogramming/Number_Factors_DP_TopDown.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -1532,7 +1429,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/ashish/datastructure/recursion/fibonacci/Demo1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
           <folding>
             <element signature="e#119#120#0" expanded="true" />
             <element signature="e#170#171#0" expanded="true" />
@@ -1551,6 +1448,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-597">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/AddString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>

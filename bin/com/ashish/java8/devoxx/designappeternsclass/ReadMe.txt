@@ -1,0 +1,3 @@
+Just totalValue is a conventional method... we need to duplicate it for every chnaging requirement.
+
+totalValue_1 method is an example of : adding an strategy to validate something based on some conditions...
