@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BasicJava.iml" filepath="$PROJECT_DIR$/BasicJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../ALLOY-IntelliJStudio/ent-int-toolrental-createtoolrentalcustomer/createtoolrentalcustomer/createtoolrentalcustomer.iml" filepath="$PROJECT_DIR$/../../../ALLOY-IntelliJStudio/ent-int-toolrental-createtoolrentalcustomer/createtoolrentalcustomer/createtoolrentalcustomer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../ALLOY-IntelliJStudio/ent-int-spm-retrievecontentserverdocuments/retrievecontentserverdocuments/retrievecontentserverdocuments.iml" filepath="$PROJECT_DIR$/../../../ALLOY-IntelliJStudio/ent-int-spm-retrievecontentserverdocuments/retrievecontentserverdocuments/retrievecontentserverdocuments.iml" />
     </modules>
   </component>
 </project>
