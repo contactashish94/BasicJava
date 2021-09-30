@@ -31,5 +31,4 @@ class SerialDemo {
 
         System.out.println("After Account.... " + a2.name + "---" + a2.pwd);
     }
-
 }

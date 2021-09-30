@@ -18,5 +18,9 @@ class Demo {
         Dog d2 = (Dog) ois.readObject();
 
         System.out.println("After deserial.... " + d2.i + "---" + d2.j);
+
+        try(BufferedReader br = new BufferedReader(new FileReader(""))) {
+            System.out.println("");
+        } catch (Exception e){}
     }
 }

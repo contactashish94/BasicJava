@@ -3,6 +3,7 @@ package com.ashish.datastructure.divideandconquer;
 public class LongestPalindromicSubstring_DC {
 
 	public int findLPSLength(String string) {
+		string = string.toLowerCase();
 		return lps_aux(string, 0, string.length() - 1);
 	}// end of method
 
@@ -30,5 +31,7 @@ public class LongestPalindromicSubstring_DC {
 	public static void main(String[] args) {
 		LongestPalindromicSubstring_DC lps = new LongestPalindromicSubstring_DC();
 		System.out.println("Longest Palindromic Substring: " + lps.findLPSLength("ABCCBUA"));
+		System.out.println(lps.findLPSLength("ABCCBUA") >1);
+		System.out.println(lps.findLPSLength("Aa") >1);
 	}// end of method
 }// end of class

@@ -25,7 +25,7 @@ public class PathFindingByBFS {
 	
 	//BFS Traversal by a source node
 	void BFSForSSSP(GraphNode node) {
-		LinkedList<GraphNode>queue = new LinkedList<>();
+		LinkedList<GraphNode> queue = new LinkedList<>();
 		queue.add(node);  //add source node to queue
 		while(!queue.isEmpty()) {
 			GraphNode presentNode = queue.remove(0);
